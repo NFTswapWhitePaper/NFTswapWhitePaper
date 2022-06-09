@@ -47,7 +47,7 @@ NFTSwap打包交易功能将极大提升NFT交易效率，而打包交易支付1
 * [同步NFT](https://github.com/NFTswapWhitePaper/NFTswapWhitePaper/blob/main/%E5%90%8C%E6%AD%A5NFT.md)
 * [快捷出售NFT](https://github.com/NFTswapWhitePaper/NFTswapWhitePaper/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AENFT.md)
 * [快捷购买NFT](https://github.com/NFTswapWhitePaper/NFTswapWhitePaper/blob/main/%E5%BF%AB%E6%8D%B7%E8%B4%AD%E4%B9%B0NFT.md)
-* 打包出售NFT
+* [打包出售NFT](https://github.com/NFTswapWhitePaper/NFTswapWhitePaper/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AENFT.md)
 * 打包购买NFT
 * 批量购买NFT
 

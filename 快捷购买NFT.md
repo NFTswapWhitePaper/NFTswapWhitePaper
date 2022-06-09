@@ -27,11 +27,27 @@
 </div>
  
 #### 4.点击“购买”进行购买。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E8%B4%AD%E4%B9%B0%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4%E6%94%AF%E4%BB%98.png">
+</div>
+
 #### 5.点击“确认”按钮开始购买NFT。
  
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E8%B4%AD%E4%B9%B0%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4.png">
+</div> 
+
 #### 6.确认购买后，“交易历史”的订单状态会显示“交易中”。
+ 
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E8%B4%AD%E4%B9%B0%E4%BA%A4%E6%98%93%E4%B8%AD.png">
+</div> 
  
 当交易完成后，订单状态会显示“成功”，在“我的NFT”界面中点击“同步NFT”即可查看新购NFT。
 需要注意的是，交易的时间长短与链上拥堵状况有关，当链上拥堵情况严重时，交易时间将相应增加，请耐心等待。
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E8%B4%AD%E4%B9%B0%E8%B4%AD%E4%B9%B0%E6%88%90%E5%8A%9F.png">
+</div> 
  

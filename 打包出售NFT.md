@@ -16,16 +16,30 @@
 #### 3.勾选要打包NFT。
 
 <div align=center>
-  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E9%80%89%E6%8B%A9%E7%B1%BB%E5%9E%8B.png">
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%95%86%E5%93%81%E5%A4%9A%E9%80%89.png">
 </div>
 
 此时系统会自动进行授权检测，这一过程可能会花费几分钟的时间，请耐心等待。若长时间未检测完成，请刷新页面或关闭浏览器再次操作。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E6%8E%88%E6%9D%83%E6%A3%80%E6%B5%8B.png">
+</div>
+
 检测完成后，点击“下一步”
 
 #### 4.输入打包NFT的名称及描述并上传封面，也可以点击“和NFT一致”按钮自动选择封面。
 卖家可以点击“添加属性”按钮分别对每个NFT添加属性。
  
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%B1%9E%E6%80%A7.png">
+</div>
+
+<br/>
+<br/>
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%A1%AB%E5%86%99%E5%B1%9E%E6%80%A7.png">
+</div>
 
  
 输入完成后，点击“下一步”按钮。

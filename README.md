@@ -12,6 +12,13 @@
 ## 官方网站
   NFTswap官方网站：
   * [http://nftswap.cc](http://nftswap.cc) 
+  <br/>
+  NFTswap官网首页：<br/>
+  <br/>
+  <div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%90%8C%E6%AD%A5NFT.png">
+  </div>
+
 ## 功能特点
 NFTswap拥有三大特色功能：<br />
 <br />

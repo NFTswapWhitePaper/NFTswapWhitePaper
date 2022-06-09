@@ -1,19 +1,24 @@
-# 打包出售
+# 打包出售NFT
 ### 打包出售功能可以帮助卖家打包多个NFT，并以一个总价进行出售，在整个过程中只需要支付1次GAS费及手续费。
 ### 提醒：在进行打包出售前，请确保已经连接钱包，并且钱包中留有BNB，以用于支付GAS费用。
 
 #### 1.在“我的店铺”中点击“创建商品”按钮，进入“选择售卖类型”页面。
-
-
-
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%95%86%E9%93%BA%E9%A6%96%E9%A1%B5.png">
+</div>
 
 #### 2.选择“打包售卖”，点击下一步
  
- 
- 
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E9%80%89%E6%8B%A9%E7%B1%BB%E5%9E%8B.png">
+</div>
  
 #### 3.勾选要打包NFT。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E9%80%89%E6%8B%A9%E7%B1%BB%E5%9E%8B.png">
+</div>
+
 此时系统会自动进行授权检测，这一过程可能会花费几分钟的时间，请耐心等待。若长时间未检测完成，请刷新页面或关闭浏览器再次操作。
  
 检测完成后，点击“下一步”

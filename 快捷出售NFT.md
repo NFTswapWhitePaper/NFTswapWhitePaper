@@ -1,9 +1,19 @@
 # 快捷出售NFT
-### 提醒：在进行快捷出售前，请确保已经连接钱包，并且钱包中留有BNB，以用于支付GAS费用。
+### 提醒：在进行快捷出售前，请确保已经连接钱包，并且钱包中留有BNB，以用于支付GAS费用。<br />
+<br />
+
 #### 1.点击要出售NFT右下角的“快捷出售”按钮。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%90%8C%E6%AD%A5NFT2.png" width="1000" height="628">
+</div>
+
 #### 2.在售卖页面填写快捷出售NFT的信息
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE1.png" width="1000" height="561">
+</div>
+
 NFT信息包括
 商品名称
 商品描述

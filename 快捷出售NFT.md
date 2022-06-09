@@ -43,10 +43,23 @@ NFT属性，点击“添加属性”按钮，并在添加属性弹窗中输入�
 </div>
 
 #### 6.此时钱包会弹出确认支付GAS费用的窗口，点击“确认”按钮。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E5%87%BA%E5%94%AE1.png" width="357" height="600">
+</div>
+
 #### 7.订单创建成功后，快捷出售的NFT会自动上架到“我的店铺”，此时在“我的店铺”页面可以看懂NFT正在上架中，刷新页面即可看到NFT已经上架成功。
  
- 
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95.png" width="1000" height="534">
+</div>
+
+<br />
+<br />
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E5%87%BA%E5%94%AE2.png" width="879" height="657">
+</div>
 
 #### 8. 点击红框中的“分享购买链接”将自动复制该NFT的购买链接到剪切板，将该链接发送给买家后，买家便可通过该链接购买对应NFT。
  

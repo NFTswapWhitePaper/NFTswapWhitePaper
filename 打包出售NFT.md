@@ -65,8 +65,14 @@
 </div>
 
 刷新页面后，该打包NFT上架成功。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E4%B8%8A%E6%9E%B6%E6%88%90%E5%8A%9F.png">
+</div>
 
 #### 7. 点击红框中的“分享购买链接”将自动复制该打包NFT的购买链接到剪切板，将该链接发送给买家后，买家便可通过该链接一次性购买打包NFT中的全部NFT。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%88%86%E4%BA%AB%E9%93%BE%E6%8E%A5.png">
+</div>
 

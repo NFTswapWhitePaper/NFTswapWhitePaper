@@ -40,21 +40,30 @@
 <div align=center>
   <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E5%A1%AB%E5%86%99%E5%B1%9E%E6%80%A7.png">
 </div>
-
  
 输入完成后，点击“下一步”按钮。
 
 #### 5.输入打包出售的价格，注意，此处为所有NFT出售的总价格。
  
- 
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E4%BB%B7%E6%A0%BC.png">
+</div>
+
 输入价格后，可以看到实际到账金额及服务手续费（恒定1USDT）。
 点击“创建并销售”按钮创建商品链接。
 
 #### 6.点击“确认”按钮完成订单确认。
  
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E7%9C%9F%E6%AD%A3%E7%A1%AE%E8%AE%A4.png">
+</div>
 
 确认成功后，系统会显示订单创建成功，同时在“我的店铺”页面也将显示正在上架中的打包NFT。
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E6%89%93%E5%8C%85%E5%87%BA%E5%94%AE%E4%B8%8A%E6%9E%B6%E4%B8%AD.png">
+</div>
+
 刷新页面后，该打包NFT上架成功。
  
 

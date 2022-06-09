@@ -30,11 +30,18 @@ NFT属性，点击“添加属性”按钮，并在添加属性弹窗中输入�
   <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE2.png" width="1000" height="617">
 </div>
 
-
 #### 4.在价格页面输入NFT出售价格
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E4%BB%B7%E6%A0%BC.png" width="1000" height="539">
+</div>
+
 #### 5.输入价格后，可以看到实际到账及服务手续费（恒定）。点击“创建并销售”按钮
- 
+
+<div align=center>
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E4%BB%B7%E6%A0%BC2.png" width="1000" height="549">
+</div>
+
 #### 6.此时钱包会弹出确认支付GAS费用的窗口，点击“确认”按钮。
  
 #### 7.订单创建成功后，快捷出售的NFT会自动上架到“我的店铺”，此时在“我的店铺”页面可以看懂NFT正在上架中，刷新页面即可看到NFT已经上架成功。

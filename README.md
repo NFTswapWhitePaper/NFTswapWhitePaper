@@ -10,7 +10,7 @@
 
 
 ## 官方网站
-  NFTswap官方网站：
+  NFTswap官方网站链接：
   * [http://nftswap.cc](http://nftswap.cc) 
   <br/>
   NFTswap官网首页：<br/>

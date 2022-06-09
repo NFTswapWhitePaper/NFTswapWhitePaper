@@ -64,5 +64,5 @@ NFT属性，点击“添加属性”按钮，并在添加属性弹窗中输入�
 #### 8. 点击红框中的“分享购买链接”将自动复制该NFT的购买链接到剪切板，将该链接发送给买家后，买家便可通过该链接购买对应NFT。
 
 <div align=center>
-  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E5%A4%8D%E5%88%B6%E5%87%BA%E5%94%AE%E9%93%BE%E6%8E%A5.png" width="879" height="657">
+  <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%BF%AB%E6%8D%B7%E5%87%BA%E5%94%AE%E5%A4%8D%E5%88%B6%E5%87%BA%E5%94%AE%E9%93%BE%E6%8E%A5.png" width="315" height="380">
 </div>

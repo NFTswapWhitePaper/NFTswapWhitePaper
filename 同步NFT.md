@@ -3,9 +3,10 @@
 
 <div align=center>
   <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%90%8C%E6%AD%A5NFT%E5%A4%A7%E5%9B%BE.png" width="1360" height="394.4">
-</div></br>
+</div>
+<br />
 
-</br>
+<br />
 <div align=center>
   <img src="https://github.com/NFTswapWhitePaper/Pictures/blob/main/%E5%90%8C%E6%AD%A5NFT2.png" width="1052" height="661">
 </div>
